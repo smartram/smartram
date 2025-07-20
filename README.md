@@ -1,16 +1,21 @@
-## Hi there 👋
+Venkata Ramarao Edara (smartram)
+Engineering Manager with 19+ years of experience, passionate about Web3, blockchain, and decentralized technologies. Skilled in Crypto Wallets, Cryptography techniques, Rust, WebAssembly and Python.
 
-<!--
-**smartram/smartram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Projects
 
-Here are some ideas to get you started:
+Crypto Address Checker: A browser extension to validate cryptocurrency addresses and identify their blockchain networks, built with Rust for performance and reliability.
+Zero-Knowledge Proofs Tutorial (In Progress): An interactive Rust + WebAssembly-based HTML tutorial teaching ZK proofs, designed to make complex cryptography concepts accessible.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+About Me
+
+💻 Expert in Python/Rust, C++, WebAssembly, Crypto Wallets, and Cryptography techniques.
+🌐 Focused on building secure, user-friendly tools for the Web3 ecosystem.
+📝 Sharing knowledge through tutorials and Defi tooling.
+
+Connect
+
+📍 Bangalore, India
+🌐 https://cryptodefy.substack.com
+🐦 Follow me on X.com/smart_ram19 for Web3 and crypto updates.
+
+Let's build the future of decentralized tech together!
