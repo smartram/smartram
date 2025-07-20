@@ -8,7 +8,7 @@ Zero-Knowledge Proofs Tutorial (In Progress): An interactive Rust + WebAssembly-
 
 About Me
 
-💻 Expert in Python/Rust, C++, WebAssembly, Crypto Wallets, and Cryptography techniques.
+💻 Expert in Python/Rust, WebAssembly, Crypto Wallets, and Cryptography techniques.
 🌐 Focused on building secure, user-friendly tools for the Web3 ecosystem.
 📝 Sharing knowledge through tutorials and Defi tooling.
 
